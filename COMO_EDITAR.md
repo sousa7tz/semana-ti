@@ -25,6 +25,7 @@ Antes de tudo, rode `npm run dev` e abra `http://localhost:5173/engenharia-rever
 | Cores dos climas (estúdio/holofote) | `src/engine/Moods.js` (`CLIMAS`) |
 | Lista da página inicial | `src/hub/apresentacoes.js` |
 | Roteiro de fala | `engenharia-reversa/roteiro_apresentacao.md` |
+| Falas prontas (texto para dizer) | `engenharia-reversa/falas.md` |
 
 ---
 

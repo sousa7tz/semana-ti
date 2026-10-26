@@ -42,7 +42,7 @@ Abra `http://localhost:5173`. Cada vez que você salva um arquivo, a página atu
 | Quero mudar… | Arquivo |
 | --- | --- |
 | Texto de um capítulo | `src/presentations/<apresentação>/conteudo/NN-nome.md` |
-| O que falar em cada clique | `<apresentação>/roteiro_apresentacao.md` |
+| O que falar em cada clique | `<apresentação>/falas.md` (texto pronto para dizer) e `<apresentação>/roteiro_apresentacao.md` (o porquê e as fontes) |
 | A demo da rede neural (neurônios, dados) | `src/presentations/redes-neurais/conteudo/06-demo.md` |
 | Cores, fontes, tamanhos | `src/engine/styles/tokens.css` |
 
@@ -133,6 +133,7 @@ Dica: aperte `F` para tela cheia e confira o som e o brilho da TV antes de come�
 index.html                      página inicial (escolher apresentação)
 engenharia-reversa/ e redes-neurais/
   index.html                    página da apresentação
+  falas.md                      falas prontas, clique a clique, para ensaiar e apresentar
   roteiro_apresentacao.md       roteiro de fala (com o guia da demo, no caso de redes neurais)
   referencias.md                fontes
 src/
