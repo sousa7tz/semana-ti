@@ -34,7 +34,7 @@ Cada ponto é um exemplo. A rede precisa separar **terracota** de **azul**.
 <!-- passo demo-ocultas=12 demo-epocas=1200 -->
 **12 camadas** com o triplo do tempo: nada. Empilhar camada não é atalho.
 
-<!-- passo demo-dados=circulos,xor demo-epocas=400 -->
+<!-- passo demo-dados=circulos,xor demo-ocultas=2 demo-epocas=400 -->
 A mesma rede aprende outros padrões: **círculos** e **XOR**.
 
 > Treino de verdade, aqui no navegador. A semente é fixa: o resultado se repete.
